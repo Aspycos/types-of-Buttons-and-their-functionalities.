@@ -1,0 +1,9 @@
+/* style.css */
+
+#paragraph1:hover, #paragraph2:hover {
+    background-color: lightblue;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
