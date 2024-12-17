@@ -1,5 +1,7 @@
+
+
 function handleButtonClick() {
-   const isYes = /* confirm */ ("Are you sure you want to proceed?"); 
+   const isYes =  (confirm  ("Are you sure you want to proceed?") ) ; 
   
     if (isYes) {
       window.location.href = "https://www.google.com"; // Replace with the actual URL
